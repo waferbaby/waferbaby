@@ -1,0 +1,17 @@
+---
+title: chutzpah
+---
+
+surprise!
+
+yeah, you're looking at the new waferbaby (i think this is 
+version six of the site, if you're at all curious).
+
+i've taken advantage of a lot of newer cascading style 
+sheets stuff, so you'd want to be looking at this in the latest 
+browser you can - it renders perfectly for me in netscape 6 
+and ie 5 for mac, but your mileage may vary.
+
+the new site isn't all finished yet, but i wanted to post 
+it early to let you get used to the new look and get 
+feedback on it. i'll link to stuff as i finish it.
