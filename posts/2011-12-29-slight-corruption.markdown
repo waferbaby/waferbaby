@@ -1,6 +1,7 @@
 ---
-layout: post
+title: Slight corruption
 ---
+
 <a href="http://www.flickr.com/photos/wafer/5654202065/" title="G by waferbaby, on Flickr"><img src="http://farm6.staticflickr.com/5141/5654202065_8ef41a23a0.jpg" width="500" height="313" alt="G"></a>
 
 America had (subtly) corrupted me decades and decades before I'd ever lived here.
