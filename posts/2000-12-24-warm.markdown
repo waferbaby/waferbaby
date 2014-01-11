@@ -1,7 +1,11 @@
 ---
-title: own me
+title: warm
 ---
 
-i've been touching up bits and pieces of the site; you'll notice that the panels on either side of you have melded together. i'm much happier with how they look now. also i've added a new preference for news posts; you can configure how many are shown per go, ordered by date (obviously, no?). i'm still fiddling with the news even now; need to add archives, etc.
+it's one of those warm summery days where you can get sunburnt from being outside for a mere five minutes, if not less. the cat is in a playful mood, the coffee is on, toast is-a burning, and i'm yet to hear a single xmas carol.
 
-let me just say that [oni](http://oni.bungie.com/) is *fucking awesome*. if i vanish for a few months, you'll konoko why. er, know.
+life should be this good every day.
+
+i've added a news post 'controller' to the bottom of this page, should you want to walk through previous news. the archives are still forthcoming, although there's little news to dig through yet, and why'd you bother in the first place is beyond me.
+
+&lt;speedkills&gt; wafer, my school blocked the connection to your site
