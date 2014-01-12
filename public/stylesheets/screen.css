@@ -8,83 +8,71 @@ a:hover {
 text-decoration: underline;
 }
 
-article {
-padding-bottom: 20px;
-margin-bottom: 20px;
-border-bottom: solid 1px #ccc;
-}
-
 blockquote {
-font-size: 90%;
-background-color: #eee;
-color: #888;
 padding: 5px 20px;
 margin: 0;
+background-color: #eee;
+color: #555;
+font-size: 90%;
 }
 
 body {
-font-family: 'monaco', monospace;
+font-family: "helvetica neue", helvetica;
 font-size: 12px;
-background-color: #fff;
-color: #000;
-padding: 10px;
+}
+
+div#wrapper {
+width: 500px;
+margin: auto;
 }
 
 h1 {
-font-size: 150%;
-font-weight: normal;
+float: left;
 padding: 0;
-margin: 0;
-color: #eee;
-letter-spacing: 2px;
+margin: 8px 15px 8px 0;
+font-size: 120%;
+color: #555;
+text-transform: uppercase;
 }
 
 h2 {
 padding: 0;
-margin: 0;
+margin: 10px 0 0 0;
+font-size: 145%;
 color: #5ec6ff;
-font-weight: normal;
+}
+
+nav {
+border-bottom: solid 1px #ccc;
 }
 
 nav ul {
-float: left;
-list-style: none inside;
-width: 100px;
-padding: 10px;
-margin: 0 20px 0 0;
+padding: 10px 0;
+margin: 0;
 }
 
 nav ul li {
-padding: 4px;
+display: inline;
+}
+
+nav ul li:before {
+content: "/ ";
+color: #aaa;
 }
 
 nav ul li a {
-color: #666;
+padding: 4px;
+color: #888;
 background-color: #eee;
-padding: 2px;
 }
 
-p#tagline {
+nav ul li:first-child:before {
+content: "";
+}
+
+p.date {
 padding: 0;
-margin: 0 0 20px 0;
-font-size: 75%;
-color: #ccc;
-}
-
-section#contents {
-float: left;
-width: 500px;
-}
-
-time {
-font-size: 80%;
-color: #999;
-}
-
-ul {
-padding: 10px 25px;
-}
-
-ul li {
-padding: 2px;
+margin: 0;
+font-size: 90%;
+color: #aaa;
 }
