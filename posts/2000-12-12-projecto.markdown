@@ -1,5 +1,6 @@
 ---
 title: projecto
+summary: Started the Fusion art project.
 ---
 
 one of the two projects i've mentioned is well underway, and i'm currently coding up crap for the second one.

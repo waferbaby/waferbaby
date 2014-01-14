@@ -1,5 +1,6 @@
 ---
 title: panelbeaters
+summary: People wanted to be involved with Fusion, and I visited Nana in hospial.
 ---
 
 wow.

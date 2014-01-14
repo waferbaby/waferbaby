@@ -1,5 +1,6 @@
 ---
 title: nightmare
+summary: I had a nightmare about an ex.
 ---
 
 i just had a stupid nightmare. i will now try to tell it all in one breath.

@@ -1,5 +1,6 @@
 ---
 title: hospital grade
+summary: It was really hot, and I visited Nana again.
 ---
 
 holy crud it's fucking [hot.](http://au.weather.yahoo.com/148/index_c.html)

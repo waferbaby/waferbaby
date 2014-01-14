@@ -1,5 +1,6 @@
 ---
 title: forever
+summary: Had good coffee, and Nana started walking again.
 ---
 
 hot damn that was [good coffee!](http://www.baristas.com.au/)

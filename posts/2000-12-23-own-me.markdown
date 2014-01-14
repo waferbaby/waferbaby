@@ -1,5 +1,6 @@
 ---
 title: own me
+summary: Added more preferences to the site, played Oni.
 ---
 
 i've been touching up bits and pieces of the site; you'll notice that the panels on either side of you have melded together. i'm much happier with how they look now. also i've added a new preference for news posts; you can configure how many are shown per go, ordered by date (obviously, no?). i'm still fiddling with the news even now; need to add archives, etc.

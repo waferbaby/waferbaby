@@ -1,5 +1,6 @@
 ---
 title: warm
+summary: Had a good day, added pagination to the archives.
 ---
 
 it's one of those warm summery days where you can get sunburnt from being outside for a mere five minutes, if not less. the cat is in a playful mood, the coffee is on, toast is-a burning, and i'm yet to hear a single xmas carol.

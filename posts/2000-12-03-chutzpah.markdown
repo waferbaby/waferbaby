@@ -1,5 +1,6 @@
 ---
 title: chutzpah
+summary: I rebuilt the site (again), and it looks great in Netscape 6 and IE 5.
 ---
 
 surprise!

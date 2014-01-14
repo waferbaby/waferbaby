@@ -1,5 +1,6 @@
 ---
 title: retail therapy
+summary: I bought a bunch of CDs and Powerpuff toys.
 ---
 
 i could not help myself.

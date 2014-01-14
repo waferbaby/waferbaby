@@ -1,5 +1,6 @@
 ---
 title: white with two sugars
+summary: Too much coffee meant I had more weird dreams.
 ---
 
 i think i need to lay off the coffee:
