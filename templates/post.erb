@@ -1,0 +1,10 @@
+---
+layout: default
+---
+
+<article class="post selected">
+<h2><%= @this.title %></h2>
+<p class="date">Posted <time datetime="<%= @this.date.strftime('%Y-%m-%d') %>"><%= @this.date.strftime('%b %d, %Y') %></p>
+
+<%= @this.markdown %>
+</article>

@@ -1,0 +1,8 @@
+---
+layout: default
+---
+
+<h2><%= @site.latest_post.title %></h2>
+<p class="date">Posted <time datetime="<%= @site.latest_post.date.strftime('%Y-%m-%d') %>"><%= @site.latest_post.date.strftime('%b %d, %Y') %></p>
+
+<%= @site.latest_post.markdown %>
