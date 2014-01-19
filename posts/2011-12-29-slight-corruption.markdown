@@ -1,6 +1,6 @@
 ---
 title: Slight corruption
-summary: America corrupted me, even before I lived there.
+summary: I'd been corrupted by America even before I'd lived here.
 ---
 
 <a href="http://www.flickr.com/photos/wafer/5654202065/" title="G by waferbaby, on Flickr"><img src="http://farm6.staticflickr.com/5141/5654202065_8ef41a23a0.jpg" width="500" height="313" alt="G"></a>

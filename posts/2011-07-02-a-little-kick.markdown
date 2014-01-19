@@ -1,6 +1,6 @@
 ---
 title: A little kick
-summary: Tried to start writing again.
+summary: I tried to start writing again, but didn't get far.
 ---
 
 I find it hard to write more than 140 characters these days, which is a little sad, innit? Keeping a weblog seems like a bigger challenge than I remember.
