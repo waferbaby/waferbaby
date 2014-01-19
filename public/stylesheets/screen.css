@@ -1,7 +1,5 @@
-a {
+a:link, a:visited {
 color: #5ec6ff;
-background-color: #cdf9ff;
-text-decoration: none;
 }
 
 a:hover {
@@ -17,57 +15,100 @@ font-size: 90%;
 }
 
 body {
-font-family: "helvetica neue", helvetica;
-font-size: 12px;
+padding: 0;
+margin: 0;
+font-family: source-code-pro, sans-serif;
+font-size: 13px;
 }
 
 div#wrapper {
-width: 500px;
+width: 660px;
 margin: auto;
 }
 
 h1 {
 float: left;
 padding: 0;
-margin: 8px 15px 8px 0;
-font-size: 120%;
-color: #555;
-text-transform: uppercase;
+margin: 0 10px 0 0;
+font-size: 90%;
+color: #aaa;
+font-weight: normal;
 }
 
 h2 {
 padding: 0;
-margin: 10px 0 0 0;
-font-size: 145%;
-color: #5ec6ff;
+margin: 0;
+font-size: 150%;
+color: #555;
+}
+
+h3 {
+padding: 0;
+margin: 20px 0;
+font-size: 140%;
+color: #333;
+}
+
+h4 {
+padding: 0;
+margin: 0 0 5px 0;
+font-size: 120%;
+}
+
+header {
+border-bottom: solid 1px #eee;
+margin-bottom: 30px;
 }
 
 nav {
-border-bottom: solid 1px #ccc;
+clear: left;
+float: left;
+width: 89px;
+padding: 0;
+margin-right: 30px;
 }
 
 nav ul {
+list-style: none inside;
 padding: 10px 0;
 margin: 0;
+text-transform: uppercase;
 }
 
 nav ul li {
-display: inline;
+padding-bottom: 10px;
 }
 
-nav ul li:before {
-content: "/ ";
-color: #aaa;
+nav ul li a:link, nav ul li a:visited {
+padding: 5px;
 }
 
-nav ul li a {
-padding: 4px;
-color: #888;
-background-color: #eee;
+nav ul li a:hover {
+color: #fff !important;
 }
 
-nav ul li:first-child:before {
-content: "";
+nav ul li#about a:link, nav ul li#about a:visited {
+color: #ff9d2e;
+}
+
+nav ul li#about a:hover {
+background-color: #ff9d2e;
+}
+
+nav ul li#archives a:link, nav ul li#archives a:visited {
+color: #cc4b8d;
+}
+
+nav ul li#archives a:hover {
+background-color: #cc4b8d;
+}
+
+nav ul li#home a:link, nav ul li#home a:visited {
+color: #5ec6ff;
+}
+
+nav ul li#home a:hover {
+background-color: #5ec6ff;
 }
 
 p.date {
@@ -75,4 +116,26 @@ padding: 0;
 margin: 0;
 font-size: 90%;
 color: #aaa;
+}
+
+p#tagline {
+font-size: 90%;
+}
+
+section#content {
+float: left;
+width: 500px;
+padding: 0 20px;
+border-left: dotted 1px #aaa;
+}
+
+time {
+font-size: 90%;
+color: #aaa;
+}
+
+ul.posts {
+padding: 0 10px;
+margin: 0;
+list-style: none inside;
 }
