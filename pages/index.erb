@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h2><%= @site.latest_post.title %></h2>
+<h2><a href="/archives/<%= @site.latest_post.year %>/<%= @site.latest_post.month %>/<%= @site.latest_post.day %>/<%= @site.latest_post.slug %>/" title="This is the most recent post."><%= @site.latest_post.title %></a></h2>
 <p class="date">Posted <time datetime="<%= @site.latest_post.date.strftime('%Y-%m-%d') %>"><%= @site.latest_post.date.strftime('%b %d, %Y') %></p>
 
 <%= @site.latest_post.markdown %>
