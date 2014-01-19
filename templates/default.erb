@@ -11,7 +11,7 @@
 	<body>
 		<div id="wrapper">
 			<header>
-				<h1>This is waferbaby</h2>
+				<h1>waferbaby</h2>
 				<p id="tagline">Eating bandwidth for breakfast since the late 90's.</p>
 			</header>
 			<nav>
@@ -24,6 +24,9 @@
 			<section id="content">
 				<%= yield %>
 			</section>
+			<footer>
+				This is a <em>website</em> on the <em>Internet</em>, and it was last updated <%= Time.new.strftime('%B %d, %Y') %>.
+			</footer>
 		</div>
 	</body>
 </html>
