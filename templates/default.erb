@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>waferbaby<% if @this.title %> / <%= @this.title %><% end %></title>
+		<link href="/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
+		<link href="/feed/" rel="alternate" title="Atom feed" type="application/atom+xml">
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width;initial-scale=1">
+		<script src="http://use.edgefonts.net/source-code-pro.js" type="text/javascript"></script>
+	</head>
+	<body>
+		<div id="wrapper">
+			<header>
+				<h1>This is waferbaby</h2>
+				<p id="tagline">Eating bandwidth for breakfast since the late 90's.</p>
+			</header>
+			<nav>
+				<ul>
+					<li id="home"><a href="/">Home</a></li>
+					<li id="archives"><a href="/archives/">Archives</a></li>
+					<li id="about"><a href="/about/">About</a></li>
+				</ul>
+			</nav>
+			<section id="content">
+				<%= yield %>
+			</section>
+		</div>
+	</body>
+</html>
