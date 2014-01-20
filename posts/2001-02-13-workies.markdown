@@ -1,0 +1,8 @@
+---
+title: workies
+summary: I started some temp work.
+---
+
+i'm at work; on a [g4 cube](http://www.apple.com/powermaccube/), no less! making a site work on various browsers, operating systems and trouser sizes. sucking up the sunny views from the thirteenth floor of an office building in the middle of sydney, with views of the harbour and opera house. digging through .jsp errors and nursing a severe lack of caffiene (nice illy cappucino this morning has since worn off).
+
+just kidding about the trouser sizes. at least, i think i am; it's only early days yet.
