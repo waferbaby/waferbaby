@@ -7,4 +7,6 @@ layout: default
 <p class="date">Posted <time datetime="<%= @this.date.strftime('%Y-%m-%d') %>"><%= @this.date.strftime('%b %d, %Y') %></p>
 
 <%= @this.markdown %>
+
+<p class="summary">I was <%= @this.year.to_i - 1977 %> when this post was made.</p>
 </article>
