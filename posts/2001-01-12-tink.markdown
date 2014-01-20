@@ -1,0 +1,8 @@
+---
+title: tink
+summary: I made it easier to browse archived posts.
+---
+
+been doing a little tinkering; old news is easier to get it: *www.waferbaby.com/year/month/day/*. i've also redone my little frontend, where i'm posting this news from.
+
+mmmmm. it's almost february. lots to look forward to this year!
