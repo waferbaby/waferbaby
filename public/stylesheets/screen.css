@@ -127,6 +127,11 @@ font-size: 90%;
 color: #aaa;
 }
 
+p.summary {
+font-size: 80%;
+color: #aaa;
+}
+
 p#tagline {
 font-size: 90%;
 }
