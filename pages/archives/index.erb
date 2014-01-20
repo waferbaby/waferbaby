@@ -5,14 +5,18 @@ layout: default
 <h2>Archives</h2>
 
 <% @site.archives.each do |year, data| %>
-  <h3><%= year %></h3>
-  <ul class="posts">
-    <% data[:posts].each do |post| %>
-      <li>
-        <h4><a href="/archives/<%= post.year %>/<%= post.month %>/<%= post.day %>/<%= post.slug %>"><%= post.title %></a></h4>
-        <time datetime="<%= post.date.strftime('%Y-%m-%d') %>"><%= post.date.strftime('%B %d') %></time>
-        <p class="summary"><%= post.summary %></p>
-      </li>
+  <% data[:months].each do |months, month_data| %>
+      <% month_data[:days].each do |day, posts| %>
+        <h3><%= posts[0].date.strftime('%B %d, %Y') %></h3>
+
+        <ul class="posts">
+          <% posts.each do |post| %>
+            <li>
+            <h4><a href="/archives/<%= post.year %>/<%= post.month %>/<%= post.day %>/<%= post.slug %>"><%= post.title %></a></h4>
+            <%= post.summary %>
+            </li>
+          <% end %>
+        </ul>
+      <% end %>
     <% end %>
-  </ul>
 <% end %>
