@@ -1,0 +1,6 @@
+---
+title: sonata
+summary: I tested my site in the new Opera for Mac.
+---
+
+thankfully, waferbaby.com looks pretty much kosher in the 'technology release' of [opera](http://www.operasoftware.com/) for the [mac.](http://www.operasoftware.com/download/mac.html) no apparant support for form item css, but otherwise things are basically hunky dory.
