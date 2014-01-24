@@ -8,5 +8,5 @@ layout: default
 
 <%= @this.markdown %>
 
-<p class="summary">I was <%= @this.year.to_i - 1977 %> when this post was made.</p>
+<p class="summary">I was <%= (@this.date.to_i - Time.mktime(1977, 3, 10).to_i) / 31557600 %> when this post was made.</p>
 </article>
