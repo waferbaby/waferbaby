@@ -1,18 +1,12 @@
 ---
 title: primal chaos
-summary: I got presents for my birthday.
+summary: I half-finished rewriting Corner.
 ---
 
-*we were sitting on bleachers looking down at the harbour and this concorde flew over followed by three fighter jets and then a fourth jet came along and flew upwards and around and started dropping bombs and everyone ran inside this mountain and someone said it was ok because it was for the british.*
+the cicadas are in full bloom. loud little fuckers, ain'tcha? (not that i'm implying any cicadas of note would read my site). you'll have to excuse me, as i'm on a jelly bean sugarhigh; i've been singing ['teenage dirtbag'](http://www.wheatus.com/) in an indian accent to poor ev all night (sorry hon).
 
-even at twenty four, i still have fucked up nightmares.
+this is a new paragraph.
 
-had a really good dinner last night; my favourite people, good food, nice weather - it rocked.
+i'm about half-way finished redoing corner - it's so fucking tedious. ugh. but it will be worth it in the end (or so i keep telling myself. hah!)
 
-got really cool presents, too. the best was the [monkey](http://users.ox.ac.uk/~hert0493/nostalgia/monkey.htm) dvd that ev 
-got me. i love this kooky series; even the dubbing. *especially* the dubbing! she also got me the [teenage dirtbag](http://www.wheatus.com/) single (shut up).
-
-my parents got me two hundred and fifty grams of french roast. oh baby. 
-[nick](http://trappedin.tvheaven.com/) got me the blade runner dvd, and [jez and renae](http://www.segpub.com.au/) got me a box of [jelly bellys;](http://www.jellybelly.com/) yum! overseas, jesse made me the *coolest* animation (!), [matt](http://a.wholelottanothing.org/) got me the alien 3 dvd and [pete](http://www.pete.gontier.org/) the princess mononoke dvd. you all rock. hard.
-
-"the nature of monkey was irrepressible!"
+["it's better to travel alone than with a fool. but what may two fools do?"](http://www.monkeyvideo.com.au/)
