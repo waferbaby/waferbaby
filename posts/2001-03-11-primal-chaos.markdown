@@ -1,6 +1,6 @@
 ---
 title: primal chaos
-summary: I turned 24.
+summary: I got presents for my birthday.
 ---
 
 *we were sitting on bleachers looking down at the harbour and this concorde flew over followed by three fighter jets and then a fourth jet came along and flew upwards and around and started dropping bombs and everyone ran inside this mountain and someone said it was ok because it was for the british.*
