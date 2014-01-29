@@ -35,10 +35,9 @@ color: #aaa;
 }
 
 h1 {
-float: left;
-padding: 0;
-margin: 0 60px 0 0;
-font-size: 90%;
+padding-top: 10px;
+margin: 10px 0 0 0;
+font-size: 120%;
 color: #aaa;
 font-weight: normal;
 }
@@ -126,10 +125,11 @@ color: #aaa;
 
 p#tagline {
 font-size: 90%;
+padding: 2px 0;
+margin: 0;
 }
 
 time {
-font-size: 90%;
 color: #aaa;
 }
 
@@ -145,7 +145,11 @@ padding-bottom: 10px;
 
 @media screen and (max-device-width: 480px) {
 
+  body {
+  font-size: 25px;
+  }
+
   div#wrapper {
-    padding: 30px;
+  padding: 30px;
   }
 }
