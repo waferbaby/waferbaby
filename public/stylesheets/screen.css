@@ -24,12 +24,11 @@ font-size: 13px;
 }
 
 div#wrapper {
-width: 660px;
+width: 500px;
 margin: auto;
 }
 
 footer {
-clear: left;
 padding: 20px 0;
 font-size: 85%;
 color: #aaa;
@@ -65,27 +64,20 @@ font-size: 120%;
 }
 
 header {
-border-bottom: solid 1px #eee;
-margin-bottom: 30px;
-}
-
-nav {
-clear: left;
-float: left;
-width: 89px;
-padding: 0;
-margin-right: 30px;
+margin-bottom: 10px;
 }
 
 nav ul {
 list-style: none inside;
 padding: 10px 0;
-margin: 0;
+margin: 0 0 10px 0;
 text-transform: uppercase;
+border-top: solid 1px #eee;
+border-bottom: solid 1px #eee;
 }
 
 nav ul li {
-padding-bottom: 10px;
+display: inline;
 }
 
 nav ul li a:link, nav ul li a:visited {
@@ -136,13 +128,6 @@ p#tagline {
 font-size: 90%;
 }
 
-section#content {
-float: left;
-width: 500px;
-padding: 0 20px;
-border-left: dotted 1px #aaa;
-}
-
 time {
 font-size: 90%;
 color: #aaa;
@@ -156,4 +141,11 @@ list-style: none inside;
 
 ul.posts li {
 padding-bottom: 10px;
+}
+
+@media screen and (max-device-width: 480px) {
+
+  div#wrapper {
+    padding: 30px;
+  }
 }
