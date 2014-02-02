@@ -1,5 +1,5 @@
 ---
-title: part one: the flight
+title: part one - the flight
 summary: I recalled our flight to Melbourne.
 ---
 

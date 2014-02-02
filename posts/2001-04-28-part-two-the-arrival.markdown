@@ -1,5 +1,5 @@
 ---
-title: part two: the arrival
+title: part two - the arrival
 summary: I recalled our arrival in Melbourne.
 ---
 
