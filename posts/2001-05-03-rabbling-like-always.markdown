@@ -1,6 +1,6 @@
 ---
 title: rabbling like always
-summary: I order groceries online for the first time, and my interview went well.
+summary: I ordered groceries online for the first time, and my interview went well.
 ---
 
 today marks the first time i've done my grocery shopping [online;](http://www.colesonline.com.au/) yay for having food! (well, it's being delivered tomorrow morning, but whatever).

@@ -1,6 +1,6 @@
 ---
 title: toorak
-summary: I land a job interview.
+summary: I landed a job interview.
 ---
 
 it's been a while since i've had a job interview. at least i'm well enough to, say, go to my interview today at four.

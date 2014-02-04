@@ -1,6 +1,6 @@
 ---
 title: you sick puppy
-summary: I think about what's in medicine.
+summary: I had a think about what's in medicine.
 ---
 
 *roxithromycin is highly concentrated in polymorphonuclear leukocytes and macrophages, achieving intracellular concentrations greater than those outside the cell. roxithromycin enhances the adhesive and chemotactic functions of these cells which in the presence of infection produce phagocytosis and bacterial lysis. roxithromycin also possesses intracellular bactericidal activity.*

@@ -1,6 +1,6 @@
 ---
 title: almond you
-summary: I discuss the almond croissants down the road.
+summary: I ranted about the almond croissants down the road.
 ---
 
 [elsucka](http://www.elsucka.com/) is making a documentary on unemployed dot.commers. interested? check out [the site](http://www.elsucka.com/) for more info!
