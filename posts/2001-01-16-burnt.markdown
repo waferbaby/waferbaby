@@ -1,6 +1,0 @@
----
-title: burnt
-summary: I got a CD burner.
----
-
-so my burner arrived yesterday, and do you think i can get it to work? no. no i can't. [toast](http://www.roxio.com/en/products/toast/index.html) refuses to recognize it. it's a [lacie](http://www.lacie.com/) [firewire](http://www.apple.com/firewire/) cd-r/rw 8x/4x/32x. anyone have any suggestions? let me know.

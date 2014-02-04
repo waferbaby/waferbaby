@@ -1,8 +1,0 @@
----
-title: broo
-summary: I started rolling features back into the site.
----
-
-both brainstorm and prefs are back. i've totally changed the way prefs work: you've now got access to the site's whole stylesheet, and since the entire site pivots off of that, you've got the drivers seat, baby.
-
-i'll be adding themes real soon, too. anyone want a theme based on their site? let me know.
