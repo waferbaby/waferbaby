@@ -67,9 +67,14 @@ padding: 20px;
 border-bottom: solid 2px #eee;
 }
 
+img {
+border: solid 1px #000;
+}
+
 nav {
 background-color: #eee;
-border-bottom: solid 1px #eee;
+border-bottom: solid 1px #ddd;
+margin-bottom: 10px;
 }
 
 nav ul {
@@ -83,35 +88,18 @@ display: inline;
 margin-right: 5px;
 }
 
-p.date {
-padding: 0;
-margin: 0;
-font-size: 90%;
+nav ul li:before {
+content: "/ ";
 color: #aaa;
 }
 
-p.summary {
-font-size: 80%;
-color: #aaa;
+nav ul li:first-child:before {
+content: "";
 }
 
 p#tagline {
 font-size: 90%;
 padding: 2px 0;
-}
-
-time {
-color: #aaa;
-}
-
-ul.posts {
-padding: 0 10px;
-margin: 0;
-list-style: none inside;
-}
-
-ul.posts li {
-padding-bottom: 10px;
 }
 
 @media screen and (max-device-width: 480px) {
