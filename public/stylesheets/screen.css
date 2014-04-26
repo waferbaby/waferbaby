@@ -19,12 +19,12 @@ font-size: 90%;
 body {
 padding: 0;
 margin: 0;
-font-family: source-code-pro, sans-serif;
+font-family: 'helvetica neue', helvetica, sans-serif;
 font-size: 13px;
 }
 
-div#wrapper {
-width: 500px;
+div#wrapper, h1, p#tagline, nav ul {
+max-width: 500px;
 margin: auto;
 }
 
@@ -35,11 +35,9 @@ color: #aaa;
 }
 
 h1 {
-padding-top: 10px;
-margin: 10px 0 0 0;
-font-size: 120%;
+padding: 0;
+font-size: 130%;
 color: #aaa;
-font-weight: normal;
 }
 
 h2 {
@@ -63,52 +61,26 @@ font-size: 120%;
 }
 
 header {
-margin-bottom: 10px;
+background-color: #000;
+color: #fff;
+padding: 20px;
+border-bottom: solid 2px #eee;
+}
+
+nav {
+background-color: #eee;
+border-bottom: solid 1px #eee;
 }
 
 nav ul {
 list-style: none inside;
 padding: 10px 0;
-margin: 0 0 10px 0;
 text-transform: uppercase;
-border-top: solid 1px #eee;
-border-bottom: solid 1px #eee;
 }
 
 nav ul li {
 display: inline;
-}
-
-nav ul li a:link, nav ul li a:visited {
-padding: 5px;
-}
-
-nav ul li a:hover {
-color: #fff !important;
-}
-
-nav ul li#about a:link, nav ul li#about a:visited {
-color: #ff9d2e;
-}
-
-nav ul li#about a:hover {
-background-color: #ff9d2e;
-}
-
-nav ul li#archives a:link, nav ul li#archives a:visited {
-color: #cc4b8d;
-}
-
-nav ul li#archives a:hover {
-background-color: #cc4b8d;
-}
-
-nav ul li#home a:link, nav ul li#home a:visited {
-color: #5ec6ff;
-}
-
-nav ul li#home a:hover {
-background-color: #5ec6ff;
+margin-right: 5px;
 }
 
 p.date {
@@ -126,7 +98,6 @@ color: #aaa;
 p#tagline {
 font-size: 90%;
 padding: 2px 0;
-margin: 0;
 }
 
 time {
