@@ -9,18 +9,17 @@
 		<script src="http://use.edgefonts.net/source-code-pro.js" type="text/javascript"></script>
 	</head>
 	<body>
+		<header>
+			<h1>waferbaby</h1>
+			<p id="tagline">Eating bandwidth for breakfast since the 90's.</p>
+		</header>
+		<nav>
+			<ul>
+				<li id="home"><a href="/" title="The starting point.">Home</a></li>
+				<li id="about"><a href="/about/" title="The typical drivel.">About</a></li>
+			</ul>
+		</nav>
 		<div id="wrapper">
-			<header>
-				<h1>waferbaby</h1>
-				<p id="tagline">Eating bandwidth for breakfast since the 90's.</p>
-			</header>
-			<nav>
-				<ul>
-					<li id="home"><a href="/" title="The latest post.">Home</a></li>
-					<li id="archives"><a href="/archives/" title="All the older posts.">Archives</a></li>
-					<li id="about"><a href="/about/" title="The typical drivel.">About</a></li>
-				</ul>
-			</nav>
 			<section id="content">
 				<%= yield %>
 			</section>
