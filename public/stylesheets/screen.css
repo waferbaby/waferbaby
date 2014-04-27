@@ -8,14 +8,6 @@ color: #fff;
 text-decoration: none;
 }
 
-blockquote {
-padding: 5px 20px;
-margin: 0;
-background-color: #eee;
-color: #555;
-font-size: 90%;
-}
-
 body {
 padding: 0;
 margin: 0;
@@ -23,7 +15,7 @@ font-family: 'helvetica neue', helvetica, sans-serif;
 font-size: 13px;
 }
 
-div#wrapper, h1, p#tagline, nav ul {
+div#wrapper {
 max-width: 500px;
 margin: auto;
 }
@@ -34,81 +26,6 @@ font-size: 85%;
 color: #aaa;
 }
 
-h1 {
-padding: 0;
-font-size: 130%;
-color: #aaa;
-}
-
-h2 {
-padding: 0;
-margin: 0;
-font-size: 150%;
-color: #333;
-}
-
-h3 {
-padding: 0;
-margin: 20px 0;
-font-size: 120%;
-color: #555;
-}
-
-h4 {
-padding: 0;
-margin: 0 0 5px 0;
-font-size: 120%;
-}
-
-header {
-background-color: #000;
-color: #fff;
-padding: 20px;
-border-bottom: solid 2px #eee;
-}
-
 img {
 border: solid 1px #000;
-}
-
-nav {
-background-color: #eee;
-border-bottom: solid 1px #ddd;
-margin-bottom: 10px;
-}
-
-nav ul {
-list-style: none inside;
-padding: 10px 0;
-text-transform: uppercase;
-}
-
-nav ul li {
-display: inline;
-margin-right: 5px;
-}
-
-nav ul li:before {
-content: "/ ";
-color: #aaa;
-}
-
-nav ul li:first-child:before {
-content: "";
-}
-
-p#tagline {
-font-size: 90%;
-padding: 2px 0;
-}
-
-@media screen and (max-device-width: 480px) {
-
-  body {
-  font-size: 25px;
-  }
-
-  div#wrapper {
-  padding: 30px;
-  }
 }
