@@ -3,21 +3,9 @@
 	<head>
 		<title>waferbaby<% if @this.title %> / <%= @this.title %><% end %></title>
 		<link href="/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
-		<link href="/feed/" rel="alternate" title="Atom feed" type="application/atom+xml">
 		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width;initial-scale=1">
 	</head>
 	<body>
-		<header>
-			<h1>waferbaby</h1>
-			<p id="tagline">Eating bandwidth for breakfast since the 90's.</p>
-		</header>
-		<nav>
-			<ul>
-				<li id="home"><a href="/" title="The starting point.">Home</a></li>
-				<li id="about"><a href="/about/" title="The typical drivel.">About</a></li>
-			</ul>
-		</nav>
 		<div id="wrapper">
 			<section id="content">
 				<%= yield %>
