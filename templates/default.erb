@@ -6,13 +6,11 @@
 		<meta charset="utf-8">
 	</head>
 	<body>
-		<div id="wrapper">
-			<section id="content">
-				<%= yield %>
-			</section>
+		<main>
+			<%= yield %>
 			<footer>
 				This is a <em>website</em> on the <em>Internet</em>, and it was last updated <%= Time.new.strftime('%B %d, %Y') %>.
 			</footer>
-		</div>
+		</main>
 	</body>
 </html>
