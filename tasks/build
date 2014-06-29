@@ -5,13 +5,11 @@ $:.unshift(source_path)
 
 require 'salt'
 
-site = Salt::Site.instance
-site.setup({
-  use_pagination: false
-})
+config = YAML::load_file('./config.yml')
+site = Salt::Site.new(config)
 
-#begin
+begin
   site.generate
-#rescue Exception => e
-  #puts "Error: #{e}"
-#end
+rescue Exception => e
+  puts "Error: #{e}"
+end
