@@ -1,4 +1,4 @@
-a:link, a:visited {
+a {
 color: #5ec6ff;
 }
 
@@ -9,16 +9,11 @@ text-decoration: none;
 }
 
 body {
-padding: 10% 0;
+padding: 50px 0;
 margin: 0;
-font-family: 'helvetica neue', helvetica, sans-serif;
-font-size: 13px;
-}
-
-main {
-max-width: 500px;
-padding: 20px;
-margin: auto;
+font-family: 'source code pro', 'andale mono', monospace;
+font-size: 14px;
+color: #000;
 }
 
 footer {
@@ -28,8 +23,60 @@ font-size: 85%;
 color: #aaa;
 }
 
-img.icon {
-float: left;
+h1 {
+padding: 0;
+margin: 0;
+font-size: 120%;
+}
+
+h1 a {
+color: #000;
+}
+
+img.photo {
+width: 100%;
+max-width: 500px;
+height: auto;
 border: solid 1px #000;
-margin: 0 30px 30px 0;
+}
+
+main {
+max-width: 500px;
+padding: 20px;
+margin: auto;
+}
+
+nav ul {
+list-style: none outside;
+padding: 10px 0;
+margin: 0 0 20px 0;
+border-top: solid 1px #eee;
+border-bottom: solid 1px #eee;
+font-size: 90%;
+color: #eee;
+}
+
+nav ul li {
+display: inline;
+}
+
+nav ul li:before {
+content: "| ";
+color: #eee;
+}
+
+nav ul li:first-child:before {
+content: "";
+}
+
+p#tagline {
+padding: 0;
+margin: 5px 0 20px 0;
+font-size: 80%;
+color: #aaa;
+}
+
+p#tagline:after {
+content: "😮";
+margin-left: 5px;
 }
