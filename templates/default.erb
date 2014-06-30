@@ -7,6 +7,17 @@
 	</head>
 	<body>
 		<main>
+			<header>
+				<h1><a href="/" title="Home again, home again.">waferbaby</a></h1>
+				<p id="tagline">Still eating bandwidth for breakfast.</p>
+			</header>
+			<nav>
+				<ul>
+					<li>Projects</li>
+					<li>Drawings</li>
+					<li><a href="/about/" title="Less than you ever wanted to know.">About</a></li>
+				</ul>
+			</nav>
 			<%= yield %>
 			<footer>
 				This is a <em>website</em> on the <em>Internet</em>, and it was last updated <%= Time.new.strftime('%B %d, %Y') %>.
