@@ -35,7 +35,6 @@ color: #000;
 
 img.photo {
 width: 100%;
-max-width: 500px;
 height: auto;
 border: solid 1px #000;
 }
