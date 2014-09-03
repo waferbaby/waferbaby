@@ -73,3 +73,8 @@ color: #eee;
 nav ul li:first-child:before {
 content: "";
 }
+
+span.nope {
+text-decoration: line-through;
+color: #aaa;
+}
