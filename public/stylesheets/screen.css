@@ -42,8 +42,6 @@ font-size: 110%;
 }
 
 img.photo {
-width: 100%;
-height: auto;
 border: solid 1px #000;
 }
 
@@ -77,4 +75,12 @@ content: "";
 span.nope {
 text-decoration: line-through;
 color: #aaa;
+}
+
+@media screen and (max-width: 600px), (max-device-width: 480px) {
+
+  img.photo {
+  width: 100%;
+  height: auto;
+  }
 }
