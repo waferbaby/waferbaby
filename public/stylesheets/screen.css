@@ -3,9 +3,7 @@ color: #000;
 }
 
 a:hover {
-background-color: #5ec6ff; 
-color: #fff;
-text-decoration: none;
+color: #5ec6ff;
 }
 
 blockquote {
@@ -18,39 +16,39 @@ margin: 10px;
 body {
 padding: 50px 0;
 margin: 0;
-font-family: 'source code pro', 'andale mono', monospace;
-font-size: 14px;
+font-family: 'andale mono', monospace;
+font-size: 13px;
 color: #000;
 line-height: 145%;
 }
 
 footer {
 clear: left;
-padding: 20px 0;
+padding: 10px;
+margin-top: 30px;
 font-size: 85%;
 color: #aaa;
+background-color: #eee;
 }
 
 h1 {
 float: left;
-padding: 0;
+padding: 15px;
 margin: 0 10px 0 0;
-font-size: 120%;
+font-size: 100%;
 }
 
 h1 a {
-background-color: #000;
 color: #fff;
 text-decoration: none;
-padding: 5px;
 }
 
 h2 {
-font-size: 130%;
+font-size: 150%;
 }
 
 h3 {
-font-size: 110%;
+font-size: 130%;
 }
 
 h4 {
@@ -62,25 +60,34 @@ border: solid 1px #000;
 }
 
 main {
-max-width: 500px;
+max-width: 600px;
 padding: 20px;
 margin: auto;
 }
 
 nav ul {
 list-style: none outside;
-padding: 5px 0;
-margin: 0 0 25px 0;
-font-size: 90%;
+padding: 15px;
+margin: 0 0 30px 0;
 color: #eee;
+background-color: #000;
 }
 
 nav ul li {
 display: inline;
+color: #555;
+}
+
+nav ul li a {
+color: #5ec6ff;
+}
+
+nav ul li a:hover {
+color: #fff;
 }
 
 nav ul li:before {
-content: "| ";
+content: "/ ";
 color: #eee;
 }
 
