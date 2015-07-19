@@ -7,8 +7,16 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	</head>
 	<body>
-		<main>
-			<%= yield %>
-		</main>
+		<div id="hunk">
+			<nav>
+				<ul>
+					<li><a href="/" title="The main page.">🏡</a></li>
+					<li><a href="/animations/" title="My pixel animations.">🎥</a></li>
+				</ul>
+			</nav>
+			<main>
+				<%= yield %>
+			</main>
+		</div>
 	</body>
 </html>
