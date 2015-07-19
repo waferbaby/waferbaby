@@ -3,13 +3,11 @@ color: #000;
 }
 
 a:hover {
-background-color: #000;
-color: #fff;
-text-decoration: none;
+opacity: 0.5;
 }
 
 blockquote {
-color: #888;
+color: #555;
 font-size: 90%;
 padding: 0;
 margin: 10px;
@@ -18,11 +16,16 @@ margin: 10px;
 body {
 padding: 0;
 margin: 0;
-font-family: "andale mono", monospace;
-font-size: 20px;
+font-family: "andale mono", "monaco", monospace;
+font-size: 18px;
 background-image: radial-gradient(#fff, #5ec6ff);
 color: #000;
 line-height: 145%;
+}
+
+div#hunk {
+padding: 50px 15%;
+margin: auto;
 }
 
 h1 {
@@ -43,7 +46,20 @@ h4 {
 font-size: 90%;
 }
 
-main {
-padding: 50px 15%;
-margin: auto;
+nav {
+margin-bottom: 50px;
+}
+
+nav ul {
+padding: 0;
+margin: 0;
+font-size: 200%;
+}
+
+nav ul li {
+display: inline;
+}
+
+nav ul li a {
+text-decoration: none;
 }
