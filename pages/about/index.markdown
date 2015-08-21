@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-![100% Bogan](/images/general/me.jpg)
+<img src="/images/general/me.jpg" width="500" height="331" alt="A photo of me, leaning back in a chair">
 
 Hi there! I'm Daniel, a sarcastic self-deprecating asthmatic vegan web developer from Sydney, living in San Francisco with my wife and our four small dogs.
 
