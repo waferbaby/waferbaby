@@ -1,4 +1,5 @@
 a {
+text-decoration: none;
 color: #000;
 }
 
@@ -6,25 +7,62 @@ a:hover {
 opacity: 0.5;
 }
 
+.about a {
+color: #5e53a6;
+border-bottom: solid 1px #5e53a6;
+}
+
+.about a:hover {
+border-bottom: solid 2px #5e53a6;
+}
+
+.animations a {
+color: #ff3399;
+border-bottom: solid 1px #ff3399;
+}
+
+.animations a:hover {
+border-bottom: solid 2px #ff3399;
+}
+
+.hello a {
+color: #aaa;
+border-bottom: solid 1px #aaa;
+}
+
+.hello a:hover {
+border-bottom: solid 2px #aaa;
+}
+
+.projects a {
+color: #b58635;
+border-bottom: solid 1px #b58635;
+}
+
+.projects a:hover {
+border-bottom: solid 2px #b58635;
+}
+
 blockquote {
+background-color: #eee;
 color: #555;
 font-size: 90%;
-padding: 0;
-margin: 10px;
+padding: 10px 20px;
+margin: 0;
 }
 
 body {
 padding: 0;
 margin: 0;
-font-family: "andale mono", "monaco", monospace;
-font-size: 18px;
-background-image: radial-gradient(#fff, #5ec6ff);
+font-family: "source code pro", "monaco", monospace;
+font-size: 12px;
 color: #000;
 line-height: 145%;
 }
 
 div#hunk {
-padding: 50px 15%;
+max-width: 502px;
+padding: 20px;
 margin: auto;
 }
 
@@ -46,20 +84,34 @@ h4 {
 font-size: 90%;
 }
 
+img {
+max-width: 500px;
+width: 100%;
+height: auto;
+margin: 0;
+border: solid 1px #000;
+}
+
 nav {
-margin-bottom: 50px;
+padding: 10px 0;
+border-bottom: dotted 1px #ccc;
 }
 
 nav ul {
+list-style: none inside;
 padding: 0;
 margin: 0;
-font-size: 200%;
 }
 
 nav ul li {
 display: inline;
 }
 
-nav ul li a {
-text-decoration: none;
+nav ul li:before {
+content: "/ ";
+color: #ddd;
+}
+
+nav ul li:first-child:before {
+content: "";
 }
