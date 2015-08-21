@@ -3,8 +3,6 @@ layout: default
 title: Animations
 ---
 
-## Animations
-
 Here are some of the animations I've made over the years.
 
 ### Pixhell
