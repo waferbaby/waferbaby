@@ -53,8 +53,7 @@ margin: auto;
 }
 
 footer {
-padding: 10px;
-text-align: center;
+padding: 10px 0;
 font-size: 90%;
 color: #888;
 border-top: dotted 1px #ccc;
@@ -77,19 +76,19 @@ margin-bottom: 20px;
 h2 {
 font-size: 140%;
 padding: 0;
-margin: 0 0 15px 0;
+margin: 15px 0;
 }
 
 h3 {
 font-size: 120%;
 padding: 0;
-margin: 0 0 15px 0;
+margin: 15px 0;
 }
 
 h4 {
 font-size: 90%;
 padding: 0;
-margin: 0;
+margin: 15px 0;
 }
 
 img {
