@@ -1,46 +1,32 @@
 a {
 text-decoration: none;
 color: #000;
+border-bottom: solid 1px #000;
 }
 
 a:hover {
 opacity: 0.5;
+border-bottom-width: 2px;
 }
 
 .about a {
 color: #5e53a6;
-border-bottom: solid 1px #5e53a6;
-}
-
-.about a:hover {
-border-bottom: solid 2px #5e53a6;
+border-bottom-color: #5e53a6;
 }
 
 .animations a {
 color: #ff3399;
-border-bottom: solid 1px #ff3399;
-}
-
-.animations a:hover {
-border-bottom: solid 2px #ff3399;
+border-bottom-color: #ff3399;
 }
 
 .hello a {
 color: #aaa;
-border-bottom: solid 1px #aaa;
-}
-
-.hello a:hover {
-border-bottom: solid 2px #aaa;
+border-bottom-color: #aaa;
 }
 
 .projects a {
 color: #b58635;
-border-bottom: solid 1px #b58635;
-}
-
-.projects a:hover {
-border-bottom: solid 2px #b58635;
+border-bottom-color: #b58635;
 }
 
 blockquote {
@@ -54,7 +40,7 @@ margin: 0;
 body {
 padding: 0;
 margin: 0;
-font-family: source-code-pro, monospace;
+font-family: arial, sans-serif;
 font-size: 12px;
 color: #000;
 line-height: 145%;
@@ -66,22 +52,44 @@ padding: 20px;
 margin: auto;
 }
 
+footer {
+padding: 10px;
+text-align: center;
+font-size: 90%;
+color: #888;
+border-top: dotted 1px #ccc;
+}
+
 h1 {
-padding: 15px;
-margin: 0 10px 0 0;
-font-size: 100%;
+letter-spacing: 20px;
+font-size: 160%;
+text-transform: uppercase;
+padding: 0;
+margin: 0 0 15px 0;
+}
+
+h1 + p {
+font-size: 120%;
+color: #666;
+margin-bottom: 20px;
 }
 
 h2 {
-font-size: 150%;
+font-size: 140%;
+padding: 0;
+margin: 0 0 15px 0;
 }
 
 h3 {
-font-size: 130%;
+font-size: 120%;
+padding: 0;
+margin: 0 0 15px 0;
 }
 
 h4 {
 font-size: 90%;
+padding: 0;
+margin: 0;
 }
 
 img {
@@ -94,6 +102,7 @@ border: solid 1px #000;
 
 nav {
 padding: 10px 0;
+margin-bottom: 20px;
 border-bottom: dotted 1px #ccc;
 }
 
@@ -104,14 +113,27 @@ margin: 0;
 }
 
 nav ul li {
+text-transform: uppercase;
 display: inline;
 }
 
 nav ul li:before {
 content: "/ ";
+padding: 5px;
 color: #ddd;
 }
 
 nav ul li:first-child:before {
 content: "";
+padding: 0;
+}
+
+ul {
+padding: 0;
+margin: 20px 40px;
+}
+
+ul li {
+padding: 3px;
+font-size: 90%;
 }
