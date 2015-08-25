@@ -5,7 +5,7 @@ title: Animations
 
 Here are some of the animations I've made over the years.
 
-### Pixhell
+## Pixhell
 
 > In a far away place exists a pocket of a world where tiny creatures draw out their inexplicably troubled lives. These are their stories.
 
@@ -15,7 +15,7 @@ When all the frames were done - and an episode could take up to *sixty hours* - 
 
 I've kept the painful descriptions intact.
 
-#### Series 1
+### Series 1
 
 > There is no obvious plot for series one. Suffice to say there is alien abduction, cyborg technology, sex and violence, scorpion mutilation, big guns, secret romance, a wedding, demons and undead rabbits, a big battle, spectral figures and the cutest little sheep on two pixels.
 
@@ -31,7 +31,7 @@ I've kept the painful descriptions intact.
 - [Invasion](/movies/pixhell/invasion.mov "View the 'Invasion' animation.")
 - [Conquest](/movies/pixhell/conquest.mov "View the 'Conquest' animation.")
 
-#### Series 2
+### Series 2
 
 > Our heros the Spook and the sheep are sent to investigate a brutal murder in a quiet country village, but all is not as it seems, and the duo uncover much more than they bargained for.
 
@@ -43,7 +43,7 @@ I've kept the painful descriptions intact.
 - [Alchemy](/movies/pixhell/alchemy.mov "View the 'Alchemy' animation.")
 - [Snarf](/movies/pixhell/snarf.mov "View the 'Snarf' animation.")
 
-#### Series 3
+### Series 3
 
 > Beneath the deserts of Cairo lie secrets buried for hundreds of thousands of years, undisturbed and untouched - until now. Payton Jones, eccentric philanthropist, archeologist, adventurer for hire and retired spy, is determined to uncover the treasures of the dead - but there are those who would stop his meddling once and for all.
 
@@ -53,21 +53,21 @@ I've kept the painful descriptions intact.
 - [Echo](/movies/pixhell/echo.mov "View the 'Echo' animation.")
 - [Terror](/movies/pixhell/terror.mov "View the 'Terror' animation.")
 
-#### Series 4
+### Series 4
 
 > The cold waste of space is a lonely place, devoid of contact with the human race. Luckily for Carter the orbit scout, he's sixty percent robot.
 
 - [Dock](/movies/pixhell/dock.mov "View the 'Dock' animation.")
 - [Nether](/movies/pixhell/nether.mov "View the 'Nether' animation.")
 
-#### Action
+### Action
 
 > Take two action figures, add a sprinkle of antagonism and a whole heap of fun. Shake well.
 
 - [Nickd vs. Kottke](/movies/pixhell/nickd-vs-kottke.mov "View the 'Nickd vs. Kottke' animation.")
 - [Zeldman vs. Tycho](/movies/pixhell/zeldman-vs-tycho.mov "View the 'Zeldman vs. Tycho' animation.")
 
-#### General
+### General
 
 > General episodes of Pixhell are lone wolves that don't belong in any one series. These are the rogues - the experiments, the episodes that didn't quite cut it for linear consumption. Enjoy the offcuts!
 
