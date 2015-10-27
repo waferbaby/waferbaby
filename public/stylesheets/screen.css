@@ -1,32 +1,9 @@
 a {
-text-decoration: none;
-color: #000;
-border-bottom: solid 1px #000;
+color: #5e53a6;
 }
 
 a:hover {
-opacity: 0.5;
-border-bottom-width: 2px;
-}
-
-.about a {
-color: #5e53a6;
-border-bottom-color: #5e53a6;
-}
-
-.animations a {
-color: #ff3399;
-border-bottom-color: #ff3399;
-}
-
-.hello a {
 color: #888;
-border-bottom-color: #aaa;
-}
-
-.projects a {
-color: #b58635;
-border-bottom-color: #b58635;
 }
 
 blockquote {
@@ -60,9 +37,7 @@ border-top: dotted 1px #ccc;
 }
 
 h1 {
-letter-spacing: 20px;
 font-size: 160%;
-text-transform: uppercase;
 padding: 0;
 margin: 0 0 15px 0;
 }
