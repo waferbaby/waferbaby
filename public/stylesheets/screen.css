@@ -18,13 +18,13 @@ body {
 padding: 0;
 margin: 0;
 font-family: arial, sans-serif;
-font-size: 12px;
+font-size: 15px;
 color: #000;
-line-height: 145%;
+line-height: 150%;
 }
 
 div#hunk {
-max-width: 502px;
+max-width: 600px;
 padding: 20px;
 margin: auto;
 }
@@ -37,6 +37,7 @@ border-top: dotted 1px #ccc;
 }
 
 h1 {
+text-transform: uppercase;
 font-size: 160%;
 padding: 0;
 margin: 0 0 15px 0;
