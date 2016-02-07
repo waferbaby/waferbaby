@@ -1,2 +1,4 @@
-'paths':
-  'post': ''
+layouts:
+  year_archives: 'posts'
+  month_archives: 'posts'
+  day_archives: 'posts'
