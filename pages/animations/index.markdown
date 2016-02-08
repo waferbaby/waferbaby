@@ -3,7 +3,7 @@ layout: default
 title: Animations
 ---
 
-Here are some of the animations I've made over the years.
+Many, many moving pixels.
 
 ## Pixhell
 
