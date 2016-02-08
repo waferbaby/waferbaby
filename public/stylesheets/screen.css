@@ -17,14 +17,14 @@ body {
 padding: 0;
 margin: 0;
 font-family: arial, sans-serif;
-font-size: 25px;
+font-size: 20px;
 background-color: #fff;
 color: #000;
 line-height: 150%;
 }
 
 div#hunk {
-max-width: 60%;
+max-width: 800px;
 padding: 20px;
 margin: auto;
 }
@@ -118,16 +118,4 @@ font-size: 95%;
 ul li {
 padding: 3px;
 font-size: 90%;
-}
-
-@media screen and (max-width: 710px), (max-device-width: 480px) {
-
-  body {
-  line-height: 120%;
-  }
-
-  div#hunk {
-  max-width: 80%;
-  font-size: 70%;
-  }
 }
