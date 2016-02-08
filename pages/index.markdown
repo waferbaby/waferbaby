@@ -3,7 +3,7 @@ layout: default
 title: Hello
 ---
 
-Hi there! I'm Daniel Bogan.
+I'm Daniel Bogan.
 
 I'm a sarcastic, self-deprecating asthmatic vegan web developer from Sydney, living in San Francisco with my wife, our son and three small dogs.
 
