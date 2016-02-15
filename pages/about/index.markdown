@@ -1,9 +1,7 @@
 ---
 layout: default
-title: Hello
+title: About
 ---
-
-I'm Daniel Bogan.
 
 I'm a sarcastic, self-deprecating asthmatic vegan web developer from Sydney, living in San Francisco with my wife, our son and three small dogs. Yep, that's really [my last name](https://en.wikipedia.org/wiki/Bogan "The Wikipedia entry for Bogan.").
 
