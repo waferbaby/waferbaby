@@ -17,75 +17,76 @@ body {
 padding: 0;
 margin: 0;
 font-family: arial, sans-serif;
-font-size: 20px;
+font-size: 18px;
 background-color: #fff;
 color: #000;
 line-height: 150%;
 }
 
 div#hunk {
-max-width: 800px;
+max-width: 500px;
 padding: 20px;
 margin: auto;
 }
 
 footer {
 padding: 10px 0;
-font-size: 90%;
+font-size: 65%;
 color: #888;
-border-top: dotted 1px #ccc;
 }
 
 h1 {
-float: left;
-font-size: 120%;
+font-size: 90%;
 padding: 0;
 margin: 0;
 color: #000;
 }
 
-h1:after {
-content: "!";
-margin-right: 5px;
-}
-
-h1 + p {
-font-size: 120%;
-color: #666;
-padding: 0;
-margin: 0 0 25px 0;
-}
-
 h2 {
-font-size: 140%;
+display: inline-block;
+font-size: 130%;
 padding: 0;
-margin: 15px 0;
+margin: 0;
+color: #000;
+border-bottom: solid 3px #98c8ff;
+}
+
+h2 + p {
+color: #999;
+font-size: 110%;
 }
 
 h3 {
+display: inline-block;
 font-size: 120%;
 padding: 0;
-margin: 15px 0;
+margin: 10px 0;
+color: #000;
+border-bottom: solid 3px #ff62d0;
 }
 
 h4 {
-font-size: 90%;
+display: inline-block;
+font-size: 100%;
 padding: 0;
-margin: 15px 0;
+margin: 10px 0;
+color: #000;
+border-bottom: solid 3px #ff6a49;
 }
 
-img {
-max-width: 500px;
-width: 100%;
-height: auto;
-margin: 0;
-border: solid 1px #000;
+header {
+padding-left: 100px;
+background-image: url('/images/icons/me.jpg');
+background-size: 80px;
+background-repeat: no-repeat;
+height: 80px;
 }
 
 nav {
 padding: 10px 0;
-margin-bottom: 20px;
-border-bottom: dotted 1px #ccc;
+margin: 20px 0;
+border-top: solid 1px #eee;
+border-bottom: solid 1px #ccc;
 }
 
 nav ul {
@@ -107,6 +108,14 @@ color: #ddd;
 nav ul li:first-child:before {
 content: "";
 padding: 0;
+}
+
+p#overview {
+line-height: 130%;
+padding: 0;
+margin: 0;
+font-size: 80%;
+color: #777;
 }
 
 ul {
