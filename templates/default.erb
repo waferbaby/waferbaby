@@ -8,14 +8,19 @@
 	</head>
 	<body>
 		<div id="hunk">
+			<header>
+				<h1>waferbaby</h1>
+				<p id="overview">Hello, friend! I'm Daniel Bogan (<a href="https://twitter.com/waferbaby" title="My Twitter account.">@waferbaby</a>), a web nerd from Sydney, Australia.</p>
+			</header>
 			<nav>
 				<ul>
-					<li><a href="/" title="The main page.">hi hey yo</a></li>
+					<li><a href="/" title="The main page.">hello</a></li>
+					<li><a href="/about/" title="Details about the nerd who made this.">about</a></li>
 					<li><a href="/animations/" title="My pixel animations.">animations</a></li>
 				</ul>
 			</nav>
 			<main>
-				<h1><%= @this.title %></h1>
+				<h2><%= @this.title %></h2>
 				<%= yield %>
 			</main>
 			<footer>
