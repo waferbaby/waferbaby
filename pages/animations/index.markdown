@@ -3,9 +3,9 @@ layout: default
 title: Animations
 ---
 
-Many, many moving pixels.
+I wanted to be an animator when I grew up. Sadly, neither thing came to pass.
 
-## Pixhell
+### Pixhell
 
 This was a pixel animation series with a terribly hard-to-find plot that I'd regularly post on waferbaby (and for a while there, its own website).
 
@@ -15,7 +15,7 @@ I built these tiny animations using a hacked [CICN](https://en.wikipedia.org/wik
 
 Here I've kept the painful descriptions intact. Sorry about that.
 
-### Series 1
+#### Series 1
 
 > There is no obvious plot for series one. Suffice to say there is alien abduction, cyborg technology, sex and violence, scorpion mutilation, big guns, secret romance, a wedding, demons and undead rabbits, a big battle, spectral figures and the cutest little sheep on two pixels.
 
@@ -31,7 +31,7 @@ Here I've kept the painful descriptions intact. Sorry about that.
 - [Invasion](/movies/pixhell/invasion.mov "View the 'Invasion' animation.") (01:23)
 - [Conquest](/movies/pixhell/conquest.mov "View the 'Conquest' animation.") (01:47)
 
-### Series 2
+#### Series 2
 
 > Our heros the Spook and the sheep are sent to investigate a brutal murder in a quiet country village, but all is not as it seems, and the duo uncover much more than they bargained for.
 
@@ -43,7 +43,7 @@ Here I've kept the painful descriptions intact. Sorry about that.
 - [Alchemy](/movies/pixhell/alchemy.mov "View the 'Alchemy' animation.") (01:13)
 - [Snarf](/movies/pixhell/snarf.mov "View the 'Snarf' animation.") (02:00)
 
-### Series 3
+#### Series 3
 
 > Beneath the deserts of Cairo lie secrets buried for hundreds of thousands of years, undisturbed and untouched - until now. Payton Jones, eccentric philanthropist, archeologist, adventurer for hire and retired spy, is determined to uncover the treasures of the dead - but there are those who would stop his meddling once and for all.
 
@@ -53,21 +53,21 @@ Here I've kept the painful descriptions intact. Sorry about that.
 - [Echo](/movies/pixhell/echo.mov "View the 'Echo' animation.") (01:18)
 - [Terror](/movies/pixhell/terror.mov "View the 'Terror' animation.") (01:50)
 
-### Series 4
+#### Series 4
 
 > The cold waste of space is a lonely place, devoid of contact with the human race. Luckily for Carter the orbit scout, he's sixty percent robot.
 
 - [Dock](/movies/pixhell/dock.mov "View the 'Dock' animation.") (01:11)
 - [Nether](/movies/pixhell/nether.mov "View the 'Nether' animation.") (01:14)
 
-### Action
+#### Action
 
 > Take two action figures, add a sprinkle of antagonism and a whole heap of fun. Shake well.
 
 - [Nickd vs. Kottke](/movies/pixhell/nickd-vs-kottke.mov "View the 'Nickd vs. Kottke' animation.") (01:47)
 - [Zeldman vs. Tycho](/movies/pixhell/zeldman-vs-tycho.mov "View the 'Zeldman vs. Tycho' animation.") (01:14)
 
-### General
+#### General
 
 > General episodes of Pixhell are lone wolves that don't belong in any one series. These are the rogues - the experiments, the episodes that didn't quite cut it for linear consumption. Enjoy the offcuts!
 
