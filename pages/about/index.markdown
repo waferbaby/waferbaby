@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-I'm a sarcastic, asthmatic vegan web developer from Sydney, living in San Francisco with my wife and son.
+I'm a sarcastic, asthmatic vegetarian web developer from Sydney, living in San Francisco with my wife and son.
 
 Yeeeeeeep, that's really [my last name](https://en.wikipedia.org/wiki/Bogan "The Wikipedia entry for Bogan.").
 
