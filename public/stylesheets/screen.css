@@ -14,7 +14,7 @@ margin: 0;
 }
 
 body {
-padding: 0;
+padding: 20px;
 margin: 0;
 font-family: arial, sans-serif;
 font-size: 18px;
@@ -24,7 +24,7 @@ line-height: 150%;
 }
 
 div#hunk {
-max-width: 500px;
+max-width: 600px;
 padding: 20px;
 margin: auto;
 }
@@ -32,14 +32,17 @@ margin: auto;
 footer {
 padding: 10px 0;
 font-size: 65%;
+text-align: center;
 color: #888;
 }
 
 h1 {
-font-size: 90%;
+float: right;
+font-size: 70%;
+font-weight: normal;
 padding: 0;
 margin: 0;
-color: #000;
+color: #aaa;
 }
 
 h2 {
@@ -74,48 +77,38 @@ color: #000;
 border-bottom: solid 3px #ff6a49;
 }
 
-header {
-padding-left: 100px;
-background-image: url('/images/icons/me.jpg');
-background-size: 80px;
-background-repeat: no-repeat;
-height: 80px;
+main {
+margin-left: 100px;
+padding-left: 20px;
+border-left: solid 1px #eee;
 }
 
 nav {
-padding: 10px 0;
-margin: 20px 0;
-border-top: solid 1px #eee;
-border-bottom: solid 1px #ccc;
+float: left;
+position: fixed;
+width: 100px;
+padding: 0;
+margin: 0;
+font-size: 80%;
 }
 
 nav ul {
 list-style: none inside;
 padding: 0;
-margin: 0;
+margin: 0 10px 0 0;
 }
 
 nav ul li {
-display: inline;
-}
-
-nav ul li:before {
-content: "/ ";
-padding: 5px;
-color: #ddd;
-}
-
-nav ul li:first-child:before {
-content: "";
-padding: 0;
-}
-
-p#overview {
-line-height: 130%;
 padding: 0;
 margin: 0;
-font-size: 80%;
-color: #777;
+border-bottom: solid 1px #eee;
+}
+
+p#tagline {
+font-size: 70%;
+padding: 0;
+margin: 0;
+color: #888;
 }
 
 ul {
