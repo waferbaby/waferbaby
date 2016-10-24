@@ -14,10 +14,10 @@ margin: 0;
 }
 
 body {
-padding: 20px;
-margin: 0;
 font-family: arial, sans-serif;
 font-size: 18px;
+padding: 20px;
+margin: 0;
 background-color: #fff;
 color: #000;
 line-height: 150%;
@@ -79,7 +79,7 @@ border-bottom: solid 3px #ff6a49;
 
 main {
 margin-left: 100px;
-padding-left: 20px;
+padding: 20px;
 border-left: solid 1px #eee;
 }
 
@@ -120,4 +120,42 @@ font-size: 95%;
 ul li {
 padding: 3px;
 font-size: 90%;
+}
+
+@media screen and (max-width: 600px), (max-device-width: 480px) {
+  footer {
+  text-align: left;
+  }
+
+  h1 {
+  float: none;
+  font-size: 150%;
+  padding: 10px 0;
+  margin-bottom: 5px;
+  color: #555;
+  }
+
+  main {
+  padding: 0;
+  margin-left: 0;
+  border: 0;
+  }
+
+  nav {
+  position: static;
+  float: none;
+  width: auto;
+  font-size: 120%;
+  padding: 10px 0;
+  margin-bottom: 20px;
+  border-top: solid 1px #eee;
+  border-bottom: solid 1px #eee;
+  }
+
+  nav ul li {
+  display: inline;
+  padding-right: 10px;
+  border: 0;
+  }
+
 }
