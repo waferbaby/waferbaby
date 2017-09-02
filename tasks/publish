@@ -1,2 +1,2 @@
 #!/usr/bin/env sh
-./tasks/build && rsync -apv site/ waferbaby.com:/usr/local/www/waferbaby.com/public/
+rsync -rvz --delete site/ waferbaby.com:/usr/local/www/waferbaby.com/public/
