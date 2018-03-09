@@ -3,7 +3,9 @@ layout: default
 title: Animations
 ---
 
-I wanted to be an animator when I grew up. Sadly, neither thing came to pass.
+## Animations
+
+I'd always wanted to be an animator when I grew up. Neither happened.
 
 ### Pixhell
 
@@ -11,9 +13,9 @@ This was a pixel animation series with a terribly hard-to-find plot that I'd reg
 
 > In a far away place exists a pocket of a world where tiny creatures draw out their inexplicably troubled lives. These are their stories.
 
-I built these tiny animations using a hacked [CICN](https://en.wikipedia.org/wiki/Resource_fork#Major_resource_types "The Wikipedia entry for resource forks.") editor in [ResEdit](https://en.wikipedia.org/wiki/ResEdit "The Wikipedia entry for ResEdit.") (I know). I'd draw each frame pixel by pixel, carefully take a screenshot and paste it into an animated GIF editor. When all the frames were done - and an episode could take up to *sixty hours* - I'd convert the GIF into a QuickTime movie and send it over to my pal Kurt, who would create the sound effects to match. Once I had his audio track I'd glue the two together and post the episode.
+I built these tiny animations using a hacked [CICN](https://en.wikipedia.org/wiki/Resource_fork#Major_resource_types "The Wikipedia entry for resource forks.") editor in [ResEdit](https://en.wikipedia.org/wiki/ResEdit "The Wikipedia entry for ResEdit.") (Really). I'd draw each frame pixel by pixel, carefully take a screenshot and paste it into an animated GIF editor. When all the frames were done - and an episode could take up to *sixty hours* - I'd convert the GIF into a QuickTime movie and send it over to my pal Kurt, who would create the sound effects to match. Once I had his audio track I'd glue the two together and post the episode.
 
-Here I've kept the painful descriptions intact. Sorry about that.
+I've kept the (painful) descriptions intact here.
 
 #### Series 1
 
