@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
 	<head>
-		<title>waferbaby - <%= @this.title %></title>
+		<title>waferbaby - <%= page.title %></title>
 		<link href="/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,15 +10,14 @@
 		<div id="hunk">
 			<header>
 				<h1>waferbaby</h1>
+				<nav>
+					<ul>
+						<li><a href="/" title="Details about the nerd who made this.">About</a></li>
+						<li><a href="/animations/" title="My pixel animations.">Animations</a></li>
+					</ul>
+				</nav>
 			</header>
-			<nav>
-				<ul>
-					<li><a href="/" title="Details about the nerd who made this.">About</a></li>
-					<li><a href="/animations/" title="My pixel animations.">Animations</a></li>
-				</ul>
-			</nav>
 			<main>
-				<h2><%= @this.title %></h2>
 				<%= yield %>
 			</main>
 			<footer>
