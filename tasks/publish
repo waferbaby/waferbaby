@@ -1,2 +1,5 @@
 #!/usr/bin/env sh
-rsync -rvz --delete site/ waferbaby.com:/usr/local/www/waferbaby.com/public/
+
+bundle update
+git pull
+bundle exec dimples build
