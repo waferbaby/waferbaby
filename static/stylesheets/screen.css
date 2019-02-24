@@ -120,7 +120,21 @@ font-size: 90%;
   padding: 30px;
   }
 
+  h1 {
+  font-size: 120%;
+  }
+
   header, main {
   grid-column: 1/3;
+  }
+
+  nav ul {
+  border-bottom: solid 1px #eee;
+  padding-bottom: 10px;
+  }
+
+  nav ul li {
+  border: 0;
+  display: inline-block;
   }
 }
