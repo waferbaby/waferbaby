@@ -4,7 +4,7 @@ layout: default
 
 ## Hello!
 
-I'm Daniel Bogan, a web developer from Sydney now living in Melbourne with my wife, son, and two ridiculously tiny dogs.
+I'm Daniel Bogan, a web developer from Sydney now living in Melbourne with my wife, our two kids, and two ridiculously small dogs.
 
 Yes, that's really [my last name](https://en.wikipedia.org/wiki/Bogan "The Wikipedia entry for Bogan."). I know.
 
