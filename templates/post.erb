@@ -3,6 +3,6 @@ layout: default
 ---
 
 <h2><%= page.title %></h2>
-<p>From <time datetime="<%= page.date.strftime('%Y-%m-%d') %>"><%= page.date.strftime('%B %d, %Y') %></time></p>
+<p><time datetime="<%= page.date.strftime('%Y-%m-%d') %>"><%= page.date.strftime('%B %d, %Y') %></time></p>
 
 <%= yield %>
