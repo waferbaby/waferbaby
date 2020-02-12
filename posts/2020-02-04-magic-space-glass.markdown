@@ -1,5 +1,6 @@
 ---
 title: Magic Space Glass
+summary: In which I move from a MacBook Pro to an iPad.
 categories:
 - tech
 ---

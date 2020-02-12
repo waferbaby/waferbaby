@@ -8,22 +8,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <body>
-    <div id="hunk">
-	    <header>
-        <h1><a href="/" title="View the latest posts.">waferbaby</a></h1>
-        <nav>
-          <ul>
-            <li><a href="/about/" title="Details about the nerd who made this.">About</a></li>
-            <li><a href="/animations/" title="My pixel animations.">Animations</a></li>
-          </ul>
-        </nav>
-      </header>
-      <main>
-        <%= yield %>
-      </main>
-      <footer>
-        This portion of the Internets was last updated on <%= Time.now.strftime('%B %-d, %Y') %>. You're cute. ❤️
-      </footer>
-    </div>
+    <header>
+      <h1><a href="/" title="View the latest posts.">waferbaby</a></h1>
+      <nav>
+        <ul>
+          <li><a href="/about/" title="Details about the nerd who made this.">About</a></li>
+          <li><a href="/animations/" title="My pixel animations.">Animations</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+    <%= yield %>
+    </main>
+    <footer>
+      This portion of the Internets was last updated on <%= Time.now.strftime('%B %-d, %Y') %>. You're cute. ❤️
+    </footer>
   </body>
 </html>

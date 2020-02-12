@@ -3,6 +3,7 @@ layout: default
 ---
 
 <h2><%= page.title %></h2>
-<p><time datetime="<%= page.date.strftime('%Y-%m-%d') %>"><%= page.date.strftime('%B %d, %Y') %></time></p>
+<p class="summary"><%= page.summary %></p>
+<time datetime="<%= page.date.strftime('%Y-%m-%d') %>">Posted <%= page.date.strftime('%B %d, %Y') %></time>
 
 <%= yield %>
