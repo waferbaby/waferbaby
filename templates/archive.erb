@@ -1,0 +1,8 @@
+---
+layout: default
+---
+
+<h2>Things I've Written</h2>
+<p>Posts from <%= page.archive_date.strftime(@site.config.date_formats[page.archive_type]) %></p>
+
+<%= render('shared.posts', posts: pagination.posts) %>

@@ -1,0 +1,8 @@
+<ul id="posts">
+<% posts.each do |post| %>
+  <li>
+    <a href="<%= post.url %>"><strong><%= post.title %></strong></a>, <%= post.summary[0].downcase + post.summary[1..-1] %> <time datetime="<%= post.date.strftime('%y-%m-%d') %>">(<%= post.date.strftime('%b %d, %y') %>)</time>
+  </li>
+<% end %>
+</ul>
+
