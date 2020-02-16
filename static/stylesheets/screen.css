@@ -116,10 +116,7 @@ ul {
 ul#posts {
   list-style: none inside;
   margin: 0;
-}
-
-ul li {
-  padding: 3px;
+  padding: 0;
 }
 
 @media screen and (max-width: 800px), (max-device-width: 480px) {
