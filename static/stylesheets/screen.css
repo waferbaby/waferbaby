@@ -56,8 +56,9 @@ h2 {
 }
 
 h2 + p {
-  color: #999;
-  font-size: 130%;
+  color: #aaa;
+  font-size: 120%;
+  margin-top: 15px;
 }
 
 h3 {
@@ -97,9 +98,13 @@ nav ul li {
   padding: 0;
 }
 
+p.summary {
+  color: #999;
+  font-size: 130%;
+}
+
 time {
   color: #aaa;
-  font-size: 80%;
 }
 
 ul {
@@ -108,9 +113,13 @@ ul {
   font-size: 95%;
 }
 
+ul#posts {
+  list-style: none inside;
+  margin: 0;
+}
+
 ul li {
   padding: 3px;
-  font-size: 90%;
 }
 
 @media screen and (max-width: 800px), (max-device-width: 480px) {
@@ -118,8 +127,6 @@ ul li {
   body {
     padding: 30px;
   }
-
-
 
   h1 {
     border: 0;
