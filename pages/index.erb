@@ -5,10 +5,10 @@ layout: default
 <h2>Hello!</h2>
 <p>Here are some things I've written.</p>
 
+<ul id="posts">
 <% @site.posts.each do |post| %>
-  <article>
-    <h3><a href="<%= post.url %>"><%= post.title %></a></h3>
-    <time datetime="<%= post.date.strftime('%Y-%m-%d') %>"><%= post.date.strftime('%B %d, %Y') %></time>
-    <p><%= post.summary %></p>
-  </article>
+  <li>
+    <a href="<%= post.url %>"><strong><%= post.title %></strong></a>, <%= post.summary[0].downcase + post.summary[1..-1] %> <time datetime="<%= post.date.strftime('%Y-%m-%d') %>">(<%= post.date.strftime('%B %d, %Y') %>)</time>
+  </li>
 <% end %>
+</ul>
