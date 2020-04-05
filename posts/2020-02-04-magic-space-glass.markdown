@@ -19,7 +19,7 @@ I also tried a combination of [Working Copy](https://workingcopyapp.com/ "A git 
 
 The next best thing is to use a remote server and turn the iPad into a dumb terminal, which is exactly what I've done. Thanks to the awesome Blink app and mosh, I can work on [usesthis.com](https://uses this.com/ "Out of date interviews with random people.") with the same tools as my laptop, with almost no discernible lag, despite me being in Melbourne and the server living somewhere in NYC.
 
-<img src="/images/posts/blink_and_mail.jpg" width="800" height="558" alt="A screenshot of Blink on the left and Mail on the right."> 
+<img src="/images/posts/blink-and-mail.jpg" width="800" height="558" alt="A screenshot of Blink on the left and Mail on the right."> 
 
 It's also forced me to redo how I manage Uses This, which is not a bad thing. Previously the lists of upcoming interviews and ones I'm waiting on were kept in text files and cobbled together with various AppleScript scripts, launched via LaunchBar (which I *definitely* miss.) And it worked! But it was fussy and occasionally needed hand-holding, so this gave me a chance to rework it, and to play with Shortcuts at the same time.
 
