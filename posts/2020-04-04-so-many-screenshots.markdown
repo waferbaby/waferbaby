@@ -17,6 +17,8 @@ While I was still in macOS, I'd use [a tiny Ruby gem](https://github.com/waferba
 
 Of course, now that [I'm exclusively on the iPad](/archives/2020/02/04/magic-space-glass/ "My post about switching to the iPad.") (I gave my wife the laptop, so there's no going back) I needed to work out an alternative, and I'd _hoped_ to use Shortcuts but it fell short once again - you just can't get a list of files inside a folder. Why would anyone need _that_?
 
+<img src="/images/posts/scriptable.jpg" width="800" height="559" alt="A screenshot of Scriptable, showing my script for syncing Switch screenshots.">
+
 Thankfully, the oh-so-very excellent [Scriptable](https://scriptable.app/ "An iOS automation app.") came to the rescue, which is just weird because I'm solving my problems with JavaScript, and I thought JavaScript only _caused_ problems (angry frontend developers, my email address is on the about page.) I'm kidding! Mostly kidding!
 
 For the USB drive full of PS4 images, I have a handy little USB-C to USB-A dongle whatsit. Plug it all in, run the script, and off it goes throwing my neatly organised Destiny 2 screenshots (because, let's be real here) onto iCloud, eventually.
