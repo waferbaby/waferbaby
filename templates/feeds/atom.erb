@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+<title>waferbaby</title>
+<link href="https://waferbaby.com/feed.atom" rel="self"/>
+<link href="https://waferbaby.com/"/>
+<updated><%= Time.new.strftime('%FT%T') %>Z</updated>
+<id>http://waferbaby.com/</id>
+<author>
+  <name>Daniel Bogan</name>
+</author>
+
+<% page.feed_posts.each do |post| %>
+<entry>
+  <id>https://waferbaby.com/<%= post.url %></id>
+  <title><%= post.title %></title>
+  <summary><%= post.summary %></summary>
+  <link href="https://waferbaby.com/<%= post.url %>"/>
+  <updated><%= post.date.strftime('%FT%T') %>Z</updated>
+  <content type="html">
+    <%== post.rendered_contents %>
+  </content>
+</entry>
+<% end %>
+
+</feed>
