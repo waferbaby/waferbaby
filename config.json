@@ -1,3 +1,6 @@
 {
-  "destination": "/usr/local/www/waferbaby.com/public/"
+  "destination": "/usr/local/www/waferbaby.com/public/",
+  "paths": {
+    "posts": "archives"
+  }
 }
