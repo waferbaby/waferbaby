@@ -20,6 +20,6 @@ jobs:
           FLAGS: -avzr --delete
           USER: deployer
           HOST: waferbaby.com
-          LOCALPATH: site
-          REMOTEPATH: /usr/local/share/www/waferbaby.com
+          LOCALPATH: site/
+          REMOTEPATH: /usr/local/share/www/waferbaby.com/
           DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
