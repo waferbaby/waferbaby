@@ -1,3 +1,2 @@
-### waferbaby
+![waferbaby](https://github.com/waferbaby/waferbaby/assets/1027/efdc4b51-843e-4f81-9c38-94d9d98433b4)
 
-Ancient and anxious web developer. Editor of Uses This, staff at The Ishtar Collective. Hunter main.
