@@ -17,7 +17,7 @@ PLATFORMS
 
 DEPENDENCIES
   dimples
-  erubis (~> 2.7.0)
+  erubis
   redcarpet
 
 BUNDLED WITH
